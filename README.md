@@ -1,8 +1,5 @@
 # Developing-Data-Products
 
-This repository contains assignment for this Coursera Data Science Module 9 which includes:
-1. shiny application
-2. slidify presentation
-
-
-The slidify presentation is published at file:///C:/Users/mypak/Documents/Pak%20Mei%20Yuet/slidifyWork/index.html#1
+This repository contains assignment for Coursera Data Science Module 9 which includes:
+1. The shiny application is published at https://mypak.shinyapps.io/shinywork/
+2. Slidify presentation is published at http://mypak.github.io/#1  (refer to 

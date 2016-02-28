@@ -1,5 +1,5 @@
 # Developing-Data-Products
 
-This repository contains 2 assignments for this Coursera Data Science Module 9
-1. Shiny Application
-2. Reproducible Pitch Presentation
+This repository contains shiny application assignment for this Coursera Data Science Module 9
+
+The Shiny app is published at file:///C:/Users/mypak/Documents/Pak%20Mei%20Yuet/slidifyWork/index.html#6
